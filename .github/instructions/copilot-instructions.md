@@ -4,7 +4,7 @@ applyTo: '**'
 
 # Requirements
 - Don't restate these requirements or coding standards when answering chat questions.
-- Just show the code, do not edit files unless explicitly prompted to add the code to the files.
+- Just show the code in the chat, do not edit files unless explicitly prompted to add the code to the files by the user. This prompting needs to happen each time.
 
 # Coding Standards
 - No while loops or recursion should be used.
